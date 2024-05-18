@@ -1,0 +1,1 @@
+ALTER TABLE "doctor" ALTER COLUMN "status" SET DEFAULT 'pending';

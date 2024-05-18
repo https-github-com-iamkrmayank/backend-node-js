@@ -1,0 +1,1 @@
+ALTER TABLE "doctor" ADD COLUMN "about" text NOT NULL;

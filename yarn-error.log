@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Dhananjay\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Lapce\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\ProgramData\chocolatey\bin;C:\composer;C:\Program Files\dotnet\;C:\jdk-11.0.1\bin;C:\Program Files\OpenSSH-Win64;C:\Program Files\Git\cmd;C:\Program Files\Erlang OTP\bin;C:\Program Files\Go\bin;C:\HashiCorp\Vagrant\bin;C:\logstash-8.7.1\bin;C:\Users\Dhananj;C:\Program Files (x86)\cloudflared\.;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\TDM-GCC-64\bin;C:\Program Files\GitHub CLI\;C:\Program Files\gnuplot\bin;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\Users\Dhananjay\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Dhananjay\AppData\Local\Programs\Python\Python312\;C:\Users\Dhananjay\.cargo\bin;C:\Users\Dhananjay\AppData\Local\Microsoft\WindowsApps;C:\Users\Dhananjay\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Dhananjay\AppData\Local\gitkraken\bin;C:\src\flutter\bin;C:\xampp\php;C:\Users\Dhananjay\AppData\Roaming\Composer\vendor\bin;C:\Users\Dhananjay\Downloads\helix-22.05-x86_64-windows;C:\Users\Dhananjay\.dotnet\tools;C:\Users\Dhananjay\AppData\Local\JetBrains\Toolbox\scripts;C:\Users\Dhananjay\AppData\Local\Android\Sdk\platform-tools;C:\dev\vcpkg;C:\Program Files\OpenSSL-Win64\bin;C:\Users\Dhananjay\AppData\Local\Fig\latest;C:\Users\Dhananjay\Downloads\ffmpeg-2022-11-03-git-5ccd4d3060-full_build\bin;C:\nvim-win64\bin;C:\Program Files\CMake\bin;C:\Users\Dhananjay\Downloads\Compressed\mingw64\bin;C:\cftunneel;C:\Users\Dhananjay\go\bin;C:\terraform;C:\Users\Dhananjay\Downloads\Compressed\vips-dev-w64-all-8.14.2\vips-dev-8.14;C:\Users\Dhananjay\Downloads\Compressed\vips-dev-w64-all-8.14.2\vips-dev-8.14;C:\Program Files\Tesseract-OCR;C:\Program Files (x86)\GnuWin32\bin;C:\zig;C:\Users\Dhananjay\Downloads\Compressed\sw-master-windows_x86_64-client;C:\Users\Dhananjay\.bun\bin;C:\Users\Dhananjay\AppData\Local\Programs\Ollama;C:\Users\Dhananjay\AppData\Roaming\npm
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.12.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\Dhananjay\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137150:13)
+      at Interface.emit (node:events:518:28)
+      at [_ttyWrite] [as _ttyWrite] (node:internal/readline/interface:1125:18)
+      at ReadStream.onkeypress (node:internal/readline/interface:264:20)
+      at ReadStream.emit (node:events:518:28)
+      at emitKeys (node:internal/readline/utils:371:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (node:internal/readline/emitKeypressEvents:64:36)
+      at ReadStream.emit (node:events:518:28)
+      at addChunk (node:internal/streams/readable:559:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
